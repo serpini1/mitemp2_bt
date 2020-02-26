@@ -1,0 +1,7 @@
+{
+    "name": "MiTemp2 BT",
+    "content_in_root": true,
+    "render_readme": true,
+    "country": "ES",
+    "domains": ["sensor"]
+  }
